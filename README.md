@@ -1,4 +1,4 @@
-# Social Media App
+# Social Media App-Conexify
 
 A feature-rich social media platform where users can connect, share, and engage.
 
